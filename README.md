@@ -10,11 +10,11 @@ Make sure that you have [zeromq](http://zeromq.org/intro:get-the-software) insta
 
 ## Running
 
-./dash-instantsend-recorder [-port=portnumber] [-zmq=endpoint]
+dash-instantsend-recorder [-port=portnumber] [-zmq=endpoint]
 
-example 1): ./dash-instantsend-recorder (will listen port 3000 and connect zmq endpoint at tcp://127.0.0.1:28332)
+example 1): dash-instantsend-recorder (will listen port 3000 and connect zmq endpoint at tcp://127.0.0.1:28332)
 
-example 2): ./dash-instantsend-recorder -port=3001 -zmq=tcp://127.0.0.1:28333 (will listen port 3001 and connect zmq endpoint at tcp://127.0.0.1:28333)
+example 2): dash-instantsend-recorder -port=3001 -zmq=tcp://127.0.0.1:28333 (will listen port 3001 and connect zmq endpoint at tcp://127.0.0.1:28333)
 
 
 ## HTTP api

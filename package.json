@@ -1,6 +1,6 @@
 {
   "name": "dash-instantsend-recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Records Dash InstantSend transactions in a leveldb database.",
   "main": "index.js",
   "repository": {
